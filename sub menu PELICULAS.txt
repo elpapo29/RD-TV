@@ -1,0 +1,134 @@
+﻿ 
+      <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+ 
+<channel>
+    <name>          <<<<<<<<<PELICULAS>>>>>>>></name>
+    <thumbnail>http://1.bp.blogspot.com/-bDos023a_yE/VpUfT7Jqd6I/AAAAAAAAE-8/pfCuzeOSIBE/s1600/4.jpg</thumbnail>
+    <fanart>http://cdn.wonderfulengineering.com/wp-content/uploads/2014/10/wallpaper-photos-4.jpg</fanart>
+        <items>
+
+
+
+
+
+               
+                        <item><title>[COLOR=yellow]                                      <<[/COLOR][COLOR=yellow] PELICULAS[/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://about.me/adryan</link></item>
+                    
+
+
+
+
+
+
+                       <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Train to Busan </title>
+                        <fanart>FONDO</fanart>
+                        <thumbnail>Lhttps://upload.wikimedia.org/wikipedia/en/9/95/Train_to_Busan.jpg</thumbnail>
+                        <link>http://tecnotv.info/train.mp4</link>
+                        </item>
+						
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Guerra mundial z </title>
+                        <fanart>FONDO</fanart>
+                        <thumbnail>http://www.nochedecine.com/wp-content/uploads/2013/07/nt_13_guerra_mundial_z_interior2.jpg</thumbnail>
+                        <link>http://discontrol@ia801306.us.archive.org/28/items/37_W091/W091D.W49.Z-ES-720.mp4?disco</link>
+                        </item>
+						
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Volver al futuro 1 </title>
+                        <fanart>FONDO</fanart>
+                        <thumbnail>http://2.bp.blogspot.com/-I9cD1o9BoPA/U6siXOGA1NI/AAAAAAAANSk/XBMnpCPy8ao/s1600/Regreso_al_futuro.jpg</thumbnail>
+                        <link>https://discontrol@ia601500.us.archive.org/34/items/84CK.70/84CK.70.FU7U93-ES-720.mp4?disco</link>
+                        </item>
+						
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Volver al futuro 2 </title>
+                        <fanart>FONDO</fanart>
+                        <thumbnail>http://es.web.img3.acsta.net/pictures/14/04/03/13/45/034916.jpg</thumbnail>
+                        <link>https://discontrol@ia601500.us.archive.org/34/items/84CK.70/84CK.70.FU7U93.2-ES-720.mp4?disco</link>
+                        </item>
+						
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Volver al futuro 3 </title>
+                        <fanart>FONDO</fanart>
+                        <thumbnail>http://pics.filmaffinity.com/back_to_the_future_part_iii-223713634-large.jpg</thumbnail>
+                        <link>https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4?disco </link>
+                        </item>
+						
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] El Descenso </title>
+                        <fanart>FONDO</fanart>
+                        <thumbnail>http://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/thedescent.jpg</thumbnail>
+                        <link>http://byagustin@bit.ly/2ewiqt9?TECNOTV</link>
+                        </item>
+						
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] el Descenso 2 </title>
+                        <fanart>FONDO</fanart>
+                        <thumbnail>http://img2.picload.org/image/crcppg/eldescensoparte2.jpg</thumbnail>
+                        <link>http://byagustin@bit.ly/2eIjJ2T?TECNOTV</link>
+                        </item>
+						
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] no respires </title>
+                        <fanart>FONDO</fanart>
+                        <thumbnail>http://es.web.img3.acsta.net/pictures/16/03/17/10/50/331628.jpg</thumbnail>
+                        <link>http://byagustin@bit.ly/2eXcbyj?TECNOTV</link>
+                        </item>
+						
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Kick Ass: Un Superhéroe sin Superpoderes </title>
+                        <fanart>FONDO</fanart>
+                        <thumbnail>http://imgs24.com/images/2014/10/03/001-kick-ass-listo-para-machacar-espana.th.jpg</thumbnail>
+                        <link>http://95.211.209.210:8777/rki7g4bh6huzcg3h5g7sbsnh2zqelv4eocs7lq2xtftoqbm7z6dgbcjpqqxa/v.flv</link>
+                        </item>
+						
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Mechanic: Resurrection </title>
+                        <fanart>https://4.bp.blogspot.com/-5zfebtH_s6M/WCpsZgsgFeI/AAAAAAAAJTk/TMpZXn0FYOsS8dIwCHwMn6sx0YmZjTerACLcB/s1600/men.jpg</fanart>
+                        <thumbnail>https://upload.wikimedia.org/wikipedia/en/4/40/Mechanic_Resurrection_poster.jpg</thumbnail>
+                        <link>https://17wy0pf.oloadcdn.net/dl/l/CpX9o00dGT9n1ZVQ/xzZrm0VUUVQ/Mechanic+Resurrection+%282016%29+-+Latino+Line+HDRip+1080p.avi.mp4?mime=true</link>
+                        </item>
+						
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] NOMBRE </title>
+                        <fanart>FONDO</fanart>
+                        <thumbnail></thumbnail>
+                        <link></link>
+                        </item>
+						
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] NOMBRE </title>
+                        <fanart>FONDO</fanart>
+                        <thumbnail></thumbnail>
+                        <link></link>
+                        </item>
+						
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] NOMBRE </title>
+                        <fanart>FONDO</fanart>
+                        <thumbnail></thumbnail>
+                        <link></link>
+                        </item>
+						
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] NOMBRE </title>
+                        <fanart>FONDO</fanart>
+                        <thumbnail></thumbnail>
+                        <link></link>
+                        </item>
+						
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] NOMBRE </title>
+                        <fanart>FONDO</fanart>
+                        <thumbnail></thumbnail>
+                        <link></link>
+                        </item>
+						
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] NOMBRE </title>
+                        <fanart>FONDO</fanart>
+                        <thumbnail></thumbnail>
+                        <link></link>
+                        </item>
